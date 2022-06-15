@@ -1,0 +1,1 @@
+\\00.00.0.0\soft\Parser\xmlvalid.exe --dtd "\\00.00.0.0\soft\Parser\xhtml11\xhtml11.dtd" "%1.xhtml" >"%1.par"

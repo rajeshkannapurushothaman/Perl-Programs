@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0001</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, C A I A Exam Review, followed by a subheading, that reads, Other Asset Allocation Approaches.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0002</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Learning Outcome Statements, followed by a list: Demonstrate knowledge of the core-satellite approach; Demonstrate knowledge of top-down and bottom-up asset allocation approaches; Demonstrate knowledge of risk budgeting; Demonstrate knowledge of factor-based implementations of a risk budgeting approach; Demonstrate knowledge of risk parity; Demonstrate knowledge of other quantitative portfolio allocation strategies; and Demonstrate knowledge of the new investment model.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0003</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Other Asset Allocation Approaches, followed by a subheading, that reads, Part 1.</p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0004</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 2</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Core-Satellite Approach, followed by a triangular diagram. The triangle is divided horizontally into two parts, the top of the triangle is labeled Satellite Portfolio: Upside-risk seeking Extended, and bottom of the triangle is labeled Core Portfolio: Downside-risk aversion Limited monitoring.</p>
+<p></p>
+<p stylename="heading 3"></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0005</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Top-Down and Bottom-Up Asset Allocation Approaches, followed by two subheadings, that reads, Top-down and Bottom-up.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0006</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 2</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Risk Budgeting, followed by a sentence, a list and an equation. The sentence reads, Risk budgeting<b> </b>is a valuable tool for analyzing a portfolio&#x2019;s risk-return profile and imposing risk constraints desired by asset owners. The list titled Ignores expected returns, is as follows: With some exceptions: Example, using standard deviation of tracking errors as a measure of risk; Allocator may allow larger T E for mangers with high probability of large alpha; Most common risk measures: Standard deviation and V a R. The equation reads, Given the variance of returns, start fraction standard deviation square of P equals Variance of left parenthesis sum of N till i equals 1 times w of i times R of i right parenthesis equals sum of N till i equals 1 times sum of N till j equals 1 times w subscript I times w subscript j times standard deviation subscript i j , one can find the contribution of each asset class to total portfolio risk: standard deviation subscript p equals delta standard deviation subscript p over delta w subscript 1 times w subscript 1 plus ellipsis plus delta standard deviation subscript p over delta w subscript N times w subscript N.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0007</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 2</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p>&#x0060;&#x2018;</p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Risk Budgeting (Continued), followed by four steps. The steps are as follows: Step 1. Calculate the total risk of the portfolio, standard deviation square subscript p equals w square subscript 1 times standard deviation square subscript 1 plus w square subscript 2 times standard deviation square subscript 2 plus w square subscript 3 times standard deviation square subscript 3 plus 2 times w subscript 1 times w subscript 2 times standard deviation subscript 1, 2 plus 2 times w subscript 1 times w subscript 3 times standard deviation subscript 1, 3 plus 2 times w subscript 2 times w subscript 2 times w subscript 3 times standard deviation subscript 2, 2; Step 2. Calculate the risk contributions of each asset, standard deviation subscript p equals delta standard deviation subscript p over delta w subscript 1 times w subscript 1 plus ellipsis plus delta standard deviation subscript p over delta w subscript N times w subscript N; Step 3. Analyze, Consider the percentage of risk contribution relative to the asset allocations; Step 4. Adjust allocations as needed, followed by a table that has two columns. The column headings are: Weight and % Contribution to Total Risk and the data from the table are as follows: </p>
+<p>Asset 1: Weight, 45%; % Contribution to Total Risk, .027 over .086 equals 31%;</p>
+<p>Asset 2: Weight, 30%; % Contribution to Total Risk, .0276 over .086 equals 32%;</p>
+<p>Asset 3: Weight, 25%; % Contribution to Total Risk, .0319 over .086 equals 37%.</p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0008</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p>Alt-Text:</p>
+<p>This slide has a heading, Risk Budgeting (Continued), followed by Step 2, that reads, Calculate the contributions of each asset or factor, standard deviation subscript p equals delta standard deviation subscript p over delta w subscript 1 times w subscript 1 plus ellipsis plus delta standard deviation subscript p over delta w subscript N times w subscript N; For assest i, delta standard deviation subscript P over delta W subscript i times W subscript i equals standard deviation subscript i P over standard deviation subscript P times W subscript I; equals P subscript i times standard deviation subscript i times W subscript I; where  P subscript I equals standard deviation subscript i P over standard deviation subscript I times standard deviation subscript P.</p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0009</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Factor Investing (Continued), followed by a subheading, a sentence and an equation. The subheading reads, For factors, Contribution of Factor. The sentence reads, Given the relationship R subscript P t equals a plus b subscript 1 times F subscript 1 t plus b subscript 2 times F subscript b 2 plus E subscript t, total portfolio risk can be decomposed using factors with, sigma subscript P. The equation reads, P subscript F 1 times sigma subscript F 1 times b subscript 1, Contribution of Factor 1 plus P subscript F 2 times sigma subscript F 2 times b subscript 2, Contribution of Factor 2 plus P subscript E times sigma subscript E, Contribution of Unknown Sources.</p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0010</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 2</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Factor Investing: An Example, followed by an equation and is as follows: Sigma subscript P equals P subscript F 1 times sigma subscript F 1 times b subscript 1, Contribution of Factor 1 plus P subscript F 2 times sigma subscript F 2 times b subscript 2, Contribution of Factor 2 plus P subscript E times sigma subscript E, Contribution of Unknown Sources.</p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0011</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Other Asset Allocation Approaches, followed by a subheading that reads, Part 2.</p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0012</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Risk Parity, followed by a table that has two columns. The column headings are: Weight and % Contribution to Total Risk and the data from the table are as follows: </p>
+<p>Asset 1: Weight, 45%; % Contribution to Total Risk, .027 over .086 equals 31%;</p>
+<p>Asset 2: Weight, 30%; % Contribution to Total Risk, .0276 over .086 equals 32%;</p>
+<p>Asset 3: Weight, 25%; % Contribution to Total Risk, .0319 over .086 equals 37%.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0013</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p></p>
+<p>This slide has a heading, Risk Parity, followed by a sentence, that reads: The returns of a risk parity portfolio has a standard deviation of 10%. A traditional portfolio offers an expected return of 9%, with a standard deviation of 17%. The riskless rate is 2%. What return must the risk-parity portfolio offer to be equally attractive as the traditional portiofolio?</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0014</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Risk Parity: Economic Rationale, followed by four sentences, that read: Risk parity uses the results of risk budgeting to create portfolios in which each asset contributes the same amount to the total risk of the portfolio; Leverage aversion theory argues that large classes of investors cannot lever up low-volatility portfolios to generate attractive returns and that, as a result, low-volatility stocks and portfolios are underpriced; Volatility anomaly is the idea that low-volatility stocks are underpriced and therefore offer higher expected risk-adjusted returns; Betting against beta anomaly<b> </b>has documented that portfolios consisting of low-beta stocks have outperformed the market in the past. </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0015</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Risk Parity, followed by a list: 1, The approach&#x2019;s historical performance is unlikely to continue in the future because low-volatility fixed-income securities no longer provide the yields they have in the past; 2, Other risks may be introduced, such as funding liquidity risk, particularly when leverage is applied to the risk parity portfolios; and 3, The rationale that a risk parity approach can exploit anomalies in the alternative investment markets is unsupported; Suitability?</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0016</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Other Quantitative Portfolio Allocation Strategies, followed by four subheadings and a list. The subheadings are: Market-weighted strategies; Equally weighted strategies; Inverse-volatility strategies; Minimum volatility portfolios. The list titled, Factor-based risk allocation, is as follows: Not sustainable; Extreme positions; Can be costly; and Factors often bundled.</p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0016</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Risk Parity: Additional Approaches, followed by a table. The table has two columns and three rows. The column headings are: Asset Weights; Risk Contributions. The row headers are: Risk Parity; Inverse-Volatility Weighted ; and Equally Weighted. All the rows and columns are blank. </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0018</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p stylename="heading 3"></p>
+<p stylename="heading 3"></p>
+<p>This slide has a heading, Stretegy Equivalence, followed by a table. The table has two columns and two rows. The column headings are: Equally volatile assets; Unequally volatile assets. The row headers are: Equal return correlations; and unequal return correlations. All the rows and columns are blank. </p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0019</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, New Investment Model, followed by a subheading that reads, Separation of alpha and beta. </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p stylename="heading 3">Image Name: model.asset.alloc.approach.0121.slide.0020</p>
+<p stylename="heading 3">Figure ID: Unnumbered Figure</p>
+<p stylename="heading 3">Alt-Text Complexity: 1</p>
+<p stylename="heading 3">Image Thumbnail:</p>
+<p></p>
+<p stylename="heading 3">Alt-Text:</p>
+<p>This slide has a heading, Conclusions, followed by a list and is as follows: The core-satellite approach; Top-down and bottom-up asset allocation approaches; Risk budgeting; Factor-based implementations of a risk budgeting approach; Risk parity; Other quantitative portfolio allocation strategies; and New investment model.</p>
+<p><bookmark id="_GoBack"/></p>
+</body>
