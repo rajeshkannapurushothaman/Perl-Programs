@@ -1,0 +1,36 @@
+<!-- This file defines entities used by PMG that are not in the NLM DTD.
+     Characters defined here will be preserved in files sent to online
+     vendors but will be converted to Unicode -->
+
+<!ENTITY EndProof "&#x25A1;"><!-- END OF PROOF -->
+<!ENTITY ibreve "&#x012D;"><!-- i BREVE -->
+<!ENTITY gtilde "g&#x0303;"><!-- g tilde -->
+<!ENTITY zcirc "&#x1E91;"><!-- LATIN SMALL LETTER Z WITH CIRCUMFLEX -->
+<!ENTITY dotlessj "&#x0237;"><!-- LATIN SMALL LETTER DOTLESS J -->
+<!ENTITY aacgr "&#x03AC;"><!-- SMALL ALPHA, ACCENT, GREEK -->
+<!ENTITY eeacgr "&#x03AE;"><!-- SMALL ETA, ACCENT, GREEK -->
+<!ENTITY onecirc "&#x2460;"><!-- CIRCLED DIGIT ONE -->
+<!ENTITY twocirc "&#x2461;"><!-- CIRCLED DIGIT TWO -->
+<!ENTITY threecirc "&#x2462;"><!-- CIRCLED DIGIT THREE -->
+<!ENTITY fourcirc "&#x2463;"><!-- CIRCLED DIGIT FOUR -->
+<!ENTITY fivecirc "&#x2464;"><!-- CIRCLED DIGIT FIVE -->
+<!ENTITY sixcirc "&#x2465;"><!-- CIRCLED DIGIT SIX -->
+<!ENTITY sevencirc "&#x2466;"><!-- CIRCLED DIGIT SEVEN -->
+<!ENTITY eightcirc "&#x2467;"><!-- CIRCLED DIGIT EIGHT -->
+<!ENTITY ninecirc "&#x2468;"><!-- CIRCLED DIGIT NINE -->
+<!ENTITY tencirc "&#x2469;"><!-- CIRCLED DIGIT TEN -->
+<!ENTITY elevencirc "&#x246A;"><!-- CIRCLED DIGIT 11 -->
+<!ENTITY twelvecirc "&#x246B;"><!-- CIRCLED DIGIT 12 -->
+<!ENTITY thirteencirc "&#x246C;"><!-- CIRCLED DIGIT 13 -->
+<!ENTITY rscriptb "&#x1D4FB;"><!-- MATHEMATICAL BOLD SCRIPT SMALL R -->
+<!ENTITY rscript "&#x1D4C7;"><!-- MATHEMATICAL BOLD SCRIPT SMALL R -->
+<!ENTITY onecirf "&#x2776;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT ONE -->
+<!ENTITY twocirf "&#x2777;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT TWO -->
+<!ENTITY threecirf "&#x2778;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT THREE -->
+<!ENTITY fourcirf "&#x2779;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT FOUR -->
+<!ENTITY fivecirf "&#x277A;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT FIVE -->
+<!ENTITY sixcirf "&#x277B;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT SIX -->
+<!ENTITY sevencirf "&#x277C;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT SEVEN -->
+<!ENTITY eightcirf "&#x277D;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT EIGHT -->
+<!ENTITY ninecirf "&#x277E;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT NINE -->
+<!ENTITY tencirf "&#x277F;"><!-- DINGBAT NEGATIVE CIRCLED DIGIT TEN -->
